@@ -13,7 +13,7 @@ A batch script that blocks ads using Windows host file.
 Just run batch script - That's all!
 
 # How it works:
-The script adds a list of addresses to the file hosts of Windows which sends to the address 0.0.0.0 so they never load.
+The script adds a list of addresses to the file hosts of Windows which are sent to the address 0.0.0.0 so they never load.
 
     0.0.0.0 pubads.g.doubleclick.net
     0.0.0.0 securepubads.g.doubleclick.net
