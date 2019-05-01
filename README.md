@@ -23,7 +23,7 @@ The script adds a list of addresses to the file hosts of Windows which sends to 
     0.0.0.0 spclient.wg.spotify.com
 
 # Known Bugs:
-* Friends bar and vertical video and radio functionality.
+* Friends bar and radio functionality.
 * Not working with 1.1.5.xxx version or newer.
 
 
